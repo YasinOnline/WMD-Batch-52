@@ -1,4 +1,5 @@
 # Week 07
+
 Today's class covered these main topics:
 
 1. step04_unions_literals
