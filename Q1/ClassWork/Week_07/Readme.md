@@ -52,14 +52,14 @@ If you want to learn more about the differences and similarities between type an
 - [TypeScript Type vs. Interface: Which One Should You Use? | WM - Web Mound](^4^)
 - [TypeScript: What is the difference between type and interface?](^5^)
 
-Source: 12/30/2023
-(1) Types vs. interfaces in TypeScript - LogRocket Blog. <https://blog.logrocket.com/types-vs-interfaces-typescript/>.
-(2) Interfaces vs Types in TypeScript - Stack Overflow. <https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript>.
-(3) Types vs. interfaces in TypeScript - LogRocket Blog. <https://blog.logrocket.com/types-vs-interfaces-typescript/>.
-(4) Interfaces vs Types in TypeScript - Stack Overflow. <https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript>.
-(5) Typescript: Type and Interface difference | by Faez | Dev Genius. <https://blog.devgenius.io/typescript-type-and-interface-difference-a9f471e0a9d2>.
-(6) TypeScript Type vs. Interface: Which One Should You Use? | WM - Web Mound. <https://www.webmound.com/typescript-type-vs-interface/>.
-(7) TypeScript: What is the difference between type and interface?. <https://7.dev/typescript-what-is-the-difference-between-type-and-interface/>.
+Source: 12/30/2023<br>
+(1) Types vs. interfaces in TypeScript - LogRocket Blog. <https://blog.logrocket.com/types-vs-interfaces-typescript/>.<br>
+(2) Interfaces vs Types in TypeScript - Stack Overflow. <https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript>.<br>
+(3) Types vs. interfaces in TypeScript - LogRocket Blog. <https://blog.logrocket.com/types-vs-interfaces-typescript/>.<br>
+(4) Interfaces vs Types in TypeScript - Stack Overflow. <https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript>.<br>
+(5) Typescript: Type and Interface difference | by Faez | Dev Genius. <https://blog.devgenius.io/typescript-type-and-interface-difference-a9f471e0a9d2>.<br>
+(6) TypeScript Type vs. Interface: Which One Should You Use? | WM - Web Mound. <https://www.webmound.com/typescript-type-vs-interface/>.<br>
+(7) TypeScript: What is the difference between type and interface?. <https://7.dev/typescript-what-is-the-difference-between-type-and-interface/>.<br>
 
 ## Difference between "Dot Notation" and "Square Notation" in Objects
 
