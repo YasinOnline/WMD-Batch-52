@@ -32,7 +32,7 @@ Type and interface are both ways to define the shape of an object or a function 
 - Interface allows declaration merging, which means that multiple declarations with the same name will be merged into one, while type does not allow this and will raise an error if two types have the same name¹².
 - Type is more flexible and expressive, while interface is more strict and clear³⁴.
 
-In general, interface is preferred for describing object shapes and contracts, while type is more versatile and used for a broader range of type definitions⁵. However, the choice between them depends on the preference and the situation of the developer. I hope this helps you understand the difference between type and interface in TypeScript. 😊
+In general, interface is preferred for describing object shapes and contracts, while type is more versatile and used for a broader range of type definitions⁵. However, the choice between them depends on the preference and the situation of the developer.
 
 One major difference between type and interface in TypeScript is that type can be used to define other kinds of types, such as primitives, unions, and tuples, while interface can only be used to define object and function shapes¹². For example, you can create a type alias for a string or number type, but you cannot create an interface for them.
 
