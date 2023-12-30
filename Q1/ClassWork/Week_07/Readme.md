@@ -33,11 +33,11 @@ Type and interface are both ways to define the shape of an object or a function 
 
 In general, interface is preferred for describing object shapes and contracts, while type is more versatile and used for a broader range of type definitions⁵. However, the choice between them depends on the preference and the situation of the developer. I hope this helps you understand the difference between type and interface in TypeScript. 😊
 
-Source: 12/30/2023
-(1) Interfaces vs Types in TypeScript - Stack Overflow. <https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript>.
-(2) What is the difference between interface and type in TypeScript. <https://www.geeksforgeeks.org/what-is-the-difference-between-interface-and-type-in-typescript/>.
-(3) TypeScript: What is the difference between type and interface?. <https://7.dev/typescript-what-is-the-difference-between-type-and-interface/>.
-(4) Interfaces vs. Types in TypeScript: Understanding the Differences and .... <https://bluesockets.com/typescript/interfaces-vs-types/>.
+Source: 12/30/2023  
+(1) Interfaces vs Types in TypeScript - Stack Overflow. <https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript>.  
+(2) What is the difference between interface and type in TypeScript. <https://www.geeksforgeeks.org/what-is-the-difference-between-interface-and-type-in-typescript/>.  
+(3) TypeScript: What is the difference between type and interface?. <https://7.dev/typescript-what-is-the-difference-between-type-and-interface/>.  
+(4) Interfaces vs. Types in TypeScript: Understanding the Differences and .... <https://bluesockets.com/typescript/interfaces-vs-types/>.  
 (5) TypeScript Type vs. Interface: Which One Should You Use? | WM - Web Mound. <https://www.webmound.com/typescript-type-vs-interface/>.
 
 One major difference between type and interface in TypeScript is that type can be used to define other kinds of types, such as primitives, unions, and tuples, while interface can only be used to define object and function shapes¹². For example, you can create a type alias for a string or number type, but you cannot create an interface for them.
@@ -52,14 +52,14 @@ If you want to learn more about the differences and similarities between type an
 - [TypeScript Type vs. Interface: Which One Should You Use? | WM - Web Mound](^4^)
 - [TypeScript: What is the difference between type and interface?](^5^)
 
-Source: 12/30/2023<br>
-(1) Types vs. interfaces in TypeScript - LogRocket Blog. <https://blog.logrocket.com/types-vs-interfaces-typescript/>.<br>
-(2) Interfaces vs Types in TypeScript - Stack Overflow. <https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript>.<br>
-(3) Types vs. interfaces in TypeScript - LogRocket Blog. <https://blog.logrocket.com/types-vs-interfaces-typescript/>.<br>
-(4) Interfaces vs Types in TypeScript - Stack Overflow. <https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript>.<br>
-(5) Typescript: Type and Interface difference | by Faez | Dev Genius. <https://blog.devgenius.io/typescript-type-and-interface-difference-a9f471e0a9d2>.<br>
-(6) TypeScript Type vs. Interface: Which One Should You Use? | WM - Web Mound. <https://www.webmound.com/typescript-type-vs-interface/>.<br>
-(7) TypeScript: What is the difference between type and interface?. <https://7.dev/typescript-what-is-the-difference-between-type-and-interface/>.<br>
+Source: 12/30/2023  
+(1) Types vs. interfaces in TypeScript - LogRocket Blog. <https://blog.logrocket.com/types-vs-interfaces-typescript/>.  
+(2) Interfaces vs Types in TypeScript - Stack Overflow. <https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript>.  
+(3) Types vs. interfaces in TypeScript - LogRocket Blog. <https://blog.logrocket.com/types-vs-interfaces-typescript/>.  
+(4) Interfaces vs Types in TypeScript - Stack Overflow. <https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript>.  
+(5) Typescript: Type and Interface difference | by Faez | Dev Genius. <https://blog.devgenius.io/typescript-type-and-interface-difference-a9f471e0a9d2>.  
+(6) TypeScript Type vs. Interface: Which One Should You Use? | WM - Web Mound. <https://www.webmound.com/typescript-type-vs-interface/>.  
+(7) TypeScript: What is the difference between type and interface?. <https://7.dev/typescript-what-is-the-difference-between-type-and-interface/>.  
 
 ## Difference between "Dot Notation" and "Square Notation" in Objects
 
@@ -77,12 +77,12 @@ For more information, you can check out these resources:
 - [Dot and Bracket Notation in JavaScript Object](^3^)
 - [JavaScript property access: dot notation vs. brackets?](^4^)
 
-Source: 12/30/2023
-(1) Dot Notation vs Bracket Notation for Object Properties – What's the .... <https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/>.
-(2) What's the difference between the square bracket and dot notations in .... <https://stackoverflow.com/questions/30250282/whats-the-difference-between-the-square-bracket-and-dot-notations-in-python>.
-(3) Dot and Bracket Notation in JavaScript Object - DEV Community. <https://dev.to/capscode/dot-and-bracket-notation-in-javascript-object-12ij>.
-(4) JavaScript property access: dot notation vs. brackets?. <https://stackoverflow.com/questions/4968406/javascript-property-access-dot-notation-vs-brackets>.
-(5) difference between dot notation and bracket notation in javascript. <https://stackoverflow.com/questions/20736758/difference-between-dot-notation-and-bracket-notation-in-javascript>.
+Source: 12/30/2023  
+(1) Dot Notation vs Bracket Notation for Object Properties – What's the .... <https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/>.  
+(2) What's the difference between the square bracket and dot notations in .... <https://stackoverflow.com/questions/30250282/whats-the-difference-between-the-square-bracket-and-dot-notations-in-python>.  
+(3) Dot and Bracket Notation in JavaScript Object - DEV Community. <https://dev.to/capscode/dot-and-bracket-notation-in-javascript-object-12ij>.  
+(4) JavaScript property access: dot notation vs. brackets?. <https://stackoverflow.com/questions/4968406/javascript-property-access-dot-notation-vs-brackets>.  
+(5) difference between dot notation and bracket notation in javascript. <https://stackoverflow.com/questions/20736758/difference-between-dot-notation-and-bracket-notation-in-javascript>.  
 
 Dot notation and bracket notation are similar in TypeScript as they are in JavaScript, since TypeScript is a superset of JavaScript. However, there are some additional differences and considerations when using them in TypeScript. Here are some of the main points:
 
@@ -102,12 +102,12 @@ For more information, you can check out these resources:
 - [TypeScript: Optional Chaining]
 - [TypeScript: Nullish Coalescing]
 
-Source: 12/30/2023
-(1) Dot Notation vs Bracket Notation for Object Properties – What's the .... <https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/>.
-(2) JavaScript property access: dot notation vs. brackets?. <https://stackoverflow.com/questions/4968406/javascript-property-access-dot-notation-vs-brackets>.
-(3) The differences between Dot Notation and Bracket Notation in ... - Medium. <https://medium.com/@maxheadway/the-differences-between-dot-notation-and-bracket-notation-in-javascript-45b07a49ebc9>.
+Source: 12/30/2023  
+(1) Dot Notation vs Bracket Notation for Object Properties – What's the .... <https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/>.  
+(2) JavaScript property access: dot notation vs. brackets?. <https://stackoverflow.com/questions/4968406/javascript-property-access-dot-notation-vs-brackets>.  
+(3) The differences between Dot Notation and Bracket Notation in ... - Medium. <https://medium.com/@maxheadway/the-differences-between-dot-notation-and-bracket-notation-in-javascript-45b07a49ebc9>.  
 (4) JavaScript Dot Notation vs. Bracket Notation: Which to Use When. <https://plainenglish.io/blog/javascript-dot-notation-vs-bracket-notation-which-to-use-when-e24117e44d71>.
-(5) Dot Notation vs Bracket Notation for Object Properties – What's the .... <https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/>.
-(6) JavaScript property access: dot notation vs. brackets?. <https://stackoverflow.com/questions/4968406/javascript-property-access-dot-notation-vs-brackets>.
-(7) The differences between Dot Notation and Bracket Notation in ... - Medium. <https://medium.com/@maxheadway/the-differences-between-dot-notation-and-bracket-notation-in-javascript-45b07a49ebc9>.
+(5) Dot Notation vs Bracket Notation for Object Properties – What's the .... <https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/>.  
+(6) JavaScript property access: dot notation vs. brackets?. <https://stackoverflow.com/questions/4968406/javascript-property-access-dot-notation-vs-brackets>.  
+(7) The differences between Dot Notation and Bracket Notation in ... - Medium. <https://medium.com/@maxheadway/the-differences-between-dot-notation-and-bracket-notation-in-javascript-45b07a49ebc9>.  
 (8) JavaScript Dot Notation vs. Bracket Notation: Which to Use When. <https://plainenglish.io/blog/javascript-dot-notation-vs-bracket-notation-which-to-use-when-e24117e44d71>.
